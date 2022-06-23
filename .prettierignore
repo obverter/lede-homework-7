@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+*.html
+
+# Ignore helpers:
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+# Ignore Python if using Black
+*.py
+*.ipynb
