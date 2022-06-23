@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/obverter/repo_name">
+  <a href="https://github.com/obverter/lede-homework-7">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Lede Homework 7</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/obverter/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/obverter/lede-homework-7"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/obverter/repo_name">View Demo</a>
+    <a href="https://github.com/obverter/lede-homework-7">View Demo</a>
     ·
-    <a href="https://github.com/obverter/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/obverter/lede-homework-7/issues">Report Bug</a>
     ·
-    <a href="https://github.com/obverter/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/obverter/lede-homework-7/issues">Request Feature</a>
   </p>
 </div>
 
@@ -84,7 +84,7 @@
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `repo_name`, `obverter`, `BenTylerElliott`, `obverter.com`, `ben`, `project_title`, `project_description` -->
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `lede-homework-7`, `obverter`, `BenTylerElliott`, `obverter.com`, `ben`, `Lede Homework 7`, `Data Forever Unclean... For Now` -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -122,7 +122,7 @@ First, you'll need to clone the repo. Follow these instructions carefully.
     ```
 2. Clone the repo.
    ```sh
-   git clone https://github.com/obverter/repo_name.git
+   git clone https://github.com/obverter/lede-homework-7.git
    ```
 3. Ensure that your machine and this repo are codependent.
    ```sh
@@ -165,7 +165,7 @@ First, you'll need to make sure that your machine and this repo are codependent.
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/obverter/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/obverter/lede-homework-7/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -204,7 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@obverter](https://twitter.com/obverter) - ben@obverter.com.com
 
-Project Link: [https://github.com/obverter/repo_name](https://github.com/obverter/repo_name)
+Project Link: [https://github.com/obverter/lede-homework-7](https://github.com/obverter/lede-homework-7)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -223,16 +223,16 @@ Project Link: [https://github.com/obverter/repo_name](https://github.com/obverte
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/obverter/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/obverter/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/obverter/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/obverter/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/obverter/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/obverter/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/obverter/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/obverter/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/obverter/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/obverter/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/obverter/lede-homework-7.svg?style=for-the-badge
+[contributors-url]: https://github.com/obverter/lede-homework-7/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/obverter/lede-homework-7.svg?style=for-the-badge
+[forks-url]: https://github.com/obverter/lede-homework-7/network/members
+[stars-shield]: https://img.shields.io/github/stars/obverter/lede-homework-7.svg?style=for-the-badge
+[stars-url]: https://github.com/obverter/lede-homework-7/stargazers
+[issues-shield]: https://img.shields.io/github/issues/obverter/lede-homework-7.svg?style=for-the-badge
+[issues-url]: https://github.com/obverter/lede-homework-7/issues
+[license-shield]: https://img.shields.io/github/license/obverter/lede-homework-7.svg?style=for-the-badge
+[license-url]: https://github.com/obverter/lede-homework-7/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/BenTylerElliott
 [product-screenshot]: images/screenshot.png
