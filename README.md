@@ -36,7 +36,7 @@
 <h3 align="center">Lede Homework 7</h3>
 
   <p align="center">
-    project_description
+    It's the Seventh Homework from Lede.
     <br />
     <a href="https://github.com/obverter/lede-homework-7"><strong>Explore the docs »</strong></a>
     <br />
@@ -155,6 +155,8 @@ First, you'll need to make sure that your machine and this repo are codependent.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Use as directed.
+
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
@@ -205,9 +207,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@obverter](https://twitter.com/obverter) - ben@obverter.com.com
+[@obverter](https://twitter.com/obverter) - ben@obverter.com.com
 
-Project Link: [https://github.com/obverter/lede-homework-7](https://github.com/obverter/lede-homework-7)
+[https://github.com/obverter/lede-homework-7](https://github.com/obverter/lede-homework-7)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -216,9 +218,9 @@ Project Link: [https://github.com/obverter/lede-homework-7](https://github.com/o
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Banner Image — Someone Called Dieter G, who I'm sure is a wonderful person.](Image by <a href="https://pixabay.com/users/dieter_g-359839/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1622980">Dieter_G</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1622980">Pixabay</a>)
+* (Banner Image Background by <a href="https://pixabay.com/users/dieter_g-359839/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1622980">Dieter_G</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1622980">Pixabay</a>)
 * [My dog](https://instagram.com/dangerkermit)
-* []()
+* [Watermelon](https://en.wikipedia.org/wiki/Watermelon)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
