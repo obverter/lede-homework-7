@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/obverter/lede-homework-7">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/dogs_and_beer.jpg">
   </a>
 
 <h3 align="center">Lede Homework 7</h3>
@@ -83,6 +83,12 @@
 ## About The Project
 <!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+
+This is a homework set from The Lede Program 2022. Lots of data cleaning, at which I am not the best.
+
+But how do we get better...?
+
+We struggle and head to Stack Overflow, of course.
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `obverter`, `lede-homework-7`, `obverter`, `BenTylerElliott`, `obverter.com`, `ben`, `Lede Homework 7`, `Data Forever Unclean... For Now` -->
 
@@ -160,10 +166,7 @@ First, you'll need to make sure that your machine and this repo are codependent.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Fix all the ugly things in here
 
 See the [open issues](https://github.com/obverter/lede-homework-7/issues) for a full list of proposed features (and known issues).
 
@@ -213,8 +216,8 @@ Project Link: [https://github.com/obverter/lede-homework-7](https://github.com/o
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
+* [Banner Image — Someone Called Dieter G, who I'm sure is a wonderful person.](Image by <a href="https://pixabay.com/users/dieter_g-359839/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1622980">Dieter_G</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1622980">Pixabay</a>)
+* [My dog](https://instagram.com/dangerkermit)
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
